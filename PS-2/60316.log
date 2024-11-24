@@ -1,0 +1,9 @@
+total 112
+drwxrwxr-x  2 evelina evelina  4096 Nov 25 01:46 .
+drwxrwxr-x 15 evelina evelina  4096 Nov 25 00:36 ..
+-rw-rw-r--  1 evelina evelina   374 Nov 25 01:08 58670.log
+-rw-rw-r--  1 evelina evelina     0 Nov 25 01:46 60316.log
+-rwxrwxr-x  1 evelina evelina 42152 Nov 25 01:44 interactive-shell
+-rw-rw-r--  1 evelina evelina  1420 Nov 25 01:42 interactive-shell.cpp
+-rw-rw-r--  1 evelina evelina 48416 Nov 25 01:44 interactive-shell.o
+-rw-rw-r--  1 evelina evelina   585 Nov 25 01:44 Makefile
